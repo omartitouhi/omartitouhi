@@ -1,11 +1,11 @@
-# Hi, I'm Omar Titouhi 
+# Hi, I'm Omar Titouhi 👋
 
 **OutSystems developer and backend engineer (Java / Spring Boot, .NET)**, 3+ years building enterprise applications for French insurers at [Wevioo](https://www.wevioo.com).
 
 📍 Ariana, Tunisia · 🌍 Open to relocation worldwide or remote work · 🗣️ Arabic, French, English
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omartitouhi-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/omartitouhi)
-[![Email](https://img.shields.io/badge/Email-titouhiomar223%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:titouhiomar223@gmail.com)
+[![Email](https://img.shields.io/badge/Email-omartitouhi%40outlook.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:omartitouhi@outlook.com)
 
 ---
 
