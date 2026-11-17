@@ -1,4 +1,4 @@
-# Hi, I'm Omar Titouhi 👋
+# Hi, I'm Omar Titouhi 
 
 **OutSystems developer and backend engineer (Java / Spring Boot, .NET)**, 3+ years building enterprise applications for French insurers at [Wevioo](https://www.wevioo.com).
 
